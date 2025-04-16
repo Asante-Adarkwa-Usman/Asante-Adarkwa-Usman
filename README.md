@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Usman Adarkwa Asante, a Senior Android Developer
 - 🌱 I hold Master's Degree in Computer Science
 - 💞️ I love to collaborate on building projects with other Software Engineers
-- 👀 I’m interested in watching animations and I love playing the trumpet
+- 👀 I’m interested in watching animations and I love playing the trumpet on my free time
 
 - 📫 You can reach me on asanteadarkwa.usman@gmail.com || usmanadarkwa@gmail.com
 
